@@ -1,15 +1,6 @@
 {
   "products": [
     {
-      "id": "1786744739308",
-      "title": "gol",
-      "code": "20",
-      "weight": "6",
-      "imageUrl": "https://raw.githubusercontent.com/sajad996600/sajad/main/images/product_1786744736731.jpg",
-      "imagePath": "images/product_1786744736731.jpg",
-      "imageSha": "3268c2981d3d599e26788bb310be8a41f654c988"
-    },
-    {
       "id": "1786744786164",
       "title": "golbahar",
       "code": "4",
