@@ -1,15 +1,6 @@
 {
   "products": [
     {
-      "id": "1790370797558",
-      "title": "hebe",
-      "code": "bebe",
-      "wagePercent": "bd",
-      "imageUrl": "https://raw.githubusercontent.com/sajad996600/sajad/main/images/product_1790370794609.jpg",
-      "imagePath": "images/product_1790370794609.jpg",
-      "imageSha": "fee4b688e57ab2ed03c930b3d3d0641a18318333"
-    },
-    {
       "id": "1790370756291",
       "title": "xdb",
       "code": "bzbz",
