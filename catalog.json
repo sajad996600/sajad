@@ -1,13 +1,3 @@
 {
-  "products": [
-    {
-      "id": "1790549296108",
-      "title": "پببپ",
-      "code": "پبپب",
-      "wagePercent": "زپزپ",
-      "imageUrl": "https://raw.githubusercontent.com/sajad996600/sajad/main/images/product_1790549292541.jpg",
-      "imagePath": "images/product_1790549292541.jpg",
-      "imageSha": "ec1f6e6d812941a7f206c3226fd4082be028ce9a"
-    }
-  ]
+  "products": []
 }
