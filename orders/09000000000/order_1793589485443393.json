@@ -26,8 +26,8 @@
   "createdAt": "2026-11-02T06:48:05.443393",
   "date": "2026/11/02 - 06:48",
   "timestamp": 1793589485443,
-  "status": "در انتظار مشاهده",
-  "seen": false,
-  "seenAt": null,
-  "confirmationCode": null
+  "status": "دیده شد",
+  "seen": true,
+  "seenAt": "2026-11-02T06:54:15.905942",
+  "confirmationCode": "705942"
 }
