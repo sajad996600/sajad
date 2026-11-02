@@ -1,0 +1,33 @@
+{
+  "id": "order_1793594781287073",
+  "storageOwner": "09103322265",
+  "orderCode": "GB-20261102-081621-000073",
+  "customerPhone": "09103322265",
+  "customerName": "زکیه دهقان",
+  "products": [
+    {
+      "productId": "1792208680486",
+      "title": "APEX",
+      "code": "479",
+      "wagePercent": "",
+      "totalYellow": 1,
+      "totalWhite": 0,
+      "totalQuantity": 1,
+      "details": [
+        "النگو زنانه سایز 1: 1 زرد"
+      ],
+      "addedAt": 1793594768250
+    }
+  ],
+  "productCount": 1,
+  "totalQuantity": 1,
+  "totalYellow": 1,
+  "totalWhite": 0,
+  "createdAt": "2026-11-02T08:16:21.287073",
+  "date": "2026/11/02 - 08:16",
+  "timestamp": 1793594781287,
+  "status": "در انتظار مشاهده",
+  "seen": false,
+  "seenAt": null,
+  "confirmationCode": null
+}
