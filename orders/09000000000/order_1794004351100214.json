@@ -1,0 +1,68 @@
+{
+  "id": "order_1794004351100214",
+  "storageOwner": "09000000000",
+  "orderCode": "GB-20261107-020231-000214",
+  "customerPhone": "09000000000",
+  "customerName": "مدیر",
+  "products": [
+    {
+      "category": "white_bangle",
+      "serviceColor": "",
+      "serviceCut": false,
+      "serviceStone": false,
+      "productId": "1792210286308",
+      "title": "CAMELLIA",
+      "code": "449",
+      "wagePercent": "",
+      "totalYellow": 20,
+      "totalWhite": 70,
+      "totalQuantity": 90,
+      "details": [
+        "النگو زنانه سایز 0: 20 سفید",
+        "النگو زنانه سایز 4: 50 سفید",
+        "النگو بچگانه سایز 2: 20 زرد"
+      ],
+      "sizeItems": [
+        {
+          "key": "women_0",
+          "group": "زنانه",
+          "size": 0,
+          "label": "النگو زنانه سایز 0",
+          "yellowQty": 0,
+          "whiteQty": 20,
+          "totalQuantity": 20
+        },
+        {
+          "key": "women_4",
+          "group": "زنانه",
+          "size": 4,
+          "label": "النگو زنانه سایز 4",
+          "yellowQty": 0,
+          "whiteQty": 50,
+          "totalQuantity": 50
+        },
+        {
+          "key": "kids_2",
+          "group": "بچگانه",
+          "size": 2,
+          "label": "النگو بچگانه سایز 2",
+          "yellowQty": 20,
+          "whiteQty": 0,
+          "totalQuantity": 20
+        }
+      ],
+      "addedAt": 1794004345892
+    }
+  ],
+  "productCount": 1,
+  "totalQuantity": 90,
+  "totalYellow": 20,
+  "totalWhite": 70,
+  "createdAt": "2026-11-07T02:02:31.100214",
+  "date": "2026/11/07 - 02:02",
+  "timestamp": 1794004351100,
+  "status": "در انتظار مشاهده",
+  "seen": false,
+  "seenAt": null,
+  "confirmationCode": null
+}
