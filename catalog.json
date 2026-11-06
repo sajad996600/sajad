@@ -1,16 +1,6 @@
 {
   "products": [
     {
-      "id": "1793968932659949",
-      "title": "dhg",
-      "code": "657",
-      "wagePercent": "",
-      "category": "white_bangle",
-      "imageUrl": "https://raw.githubusercontent.com/sajad996600/sajad/main/images/product_1793968932659949.jpg",
-      "imagePath": "images/product_1793968932659949.jpg",
-      "imageSha": "23cbedac983ce7ddf58628f61c932ba498a5b718"
-    },
-    {
       "id": "1793964849572",
       "title": "Maria",
       "code": "600",
