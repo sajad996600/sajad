@@ -1,16 +1,6 @@
 {
   "products": [
     {
-      "id": "1794003609342",
-      "title": "skns",
-      "code": "9494",
-      "wagePercent": "",
-      "category": "white_bangle",
-      "imageUrl": "https://api.github.com/repos/sajad996600/sajad/contents/images/product_1794003606749970.jpg?ref=main",
-      "imagePath": "images/product_1794003606749970.jpg",
-      "imageSha": "b4010d6409835ee8fcb64e9b9e7ab7f0415946ef"
-    },
-    {
       "id": "1793998764291",
       "title": "ksj",
       "code": "464",
