@@ -1,0 +1,68 @@
+{
+  "id": "order_1793967727235169",
+  "storageOwner": "09164516142",
+  "orderCode": "GB-20261106-155207-000169",
+  "customerPhone": "09164516142",
+  "customerName": "سجاد پرن",
+  "products": [
+    {
+      "category": "white_bangle",
+      "serviceColor": "",
+      "serviceCut": false,
+      "serviceStone": false,
+      "productId": "1792210286308",
+      "title": "CAMELLIA",
+      "code": "449",
+      "wagePercent": "",
+      "totalYellow": 80,
+      "totalWhite": 0,
+      "totalQuantity": 80,
+      "details": [
+        "النگو زنانه سایز 0: 20 زرد",
+        "النگو زنانه سایز 4: 40 زرد",
+        "النگو بچگانه سایز 2: 20 زرد"
+      ],
+      "sizeItems": [
+        {
+          "key": "women_0",
+          "group": "زنانه",
+          "size": 0,
+          "label": "النگو زنانه سایز 0",
+          "yellowQty": 20,
+          "whiteQty": 0,
+          "totalQuantity": 20
+        },
+        {
+          "key": "women_4",
+          "group": "زنانه",
+          "size": 4,
+          "label": "النگو زنانه سایز 4",
+          "yellowQty": 40,
+          "whiteQty": 0,
+          "totalQuantity": 40
+        },
+        {
+          "key": "kids_2",
+          "group": "بچگانه",
+          "size": 2,
+          "label": "النگو بچگانه سایز 2",
+          "yellowQty": 20,
+          "whiteQty": 0,
+          "totalQuantity": 20
+        }
+      ],
+      "addedAt": 1793967702042
+    }
+  ],
+  "productCount": 1,
+  "totalQuantity": 80,
+  "totalYellow": 80,
+  "totalWhite": 0,
+  "createdAt": "2026-11-06T15:52:07.235169",
+  "date": "2026/11/06 - 15:52",
+  "timestamp": 1793967727235,
+  "status": "در انتظار مشاهده",
+  "seen": false,
+  "seenAt": null,
+  "confirmationCode": null
+}
