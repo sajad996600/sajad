@@ -1,0 +1,74 @@
+{
+  "id": "order_1793964400213683",
+  "storageOwner": "09164516142",
+  "orderCode": "GB-20261106-145640-000683",
+  "customerPhone": "09164516142",
+  "customerName": "سجاد پرن",
+  "products": [
+    {
+      "productId": "1792209964990",
+      "title": "ARIANA",
+      "code": "458",
+      "wagePercent": "",
+      "totalYellow": 20,
+      "totalWhite": 60,
+      "totalQuantity": 80,
+      "details": [
+        "النگو زنانه سایز 1: 20 سفید",
+        "النگو زنانه سایز 4: 20 زرد",
+        "النگو بچگانه سایز 3: 20 سفید",
+        "النگو بچگانه سایز 4: 20 سفید"
+      ],
+      "sizeItems": [
+        {
+          "key": "women_1",
+          "group": "زنانه",
+          "size": 1,
+          "label": "النگو زنانه سایز 1",
+          "yellowQty": 0,
+          "whiteQty": 20,
+          "totalQuantity": 20
+        },
+        {
+          "key": "women_4",
+          "group": "زنانه",
+          "size": 4,
+          "label": "النگو زنانه سایز 4",
+          "yellowQty": 20,
+          "whiteQty": 0,
+          "totalQuantity": 20
+        },
+        {
+          "key": "kids_3",
+          "group": "بچگانه",
+          "size": 3,
+          "label": "النگو بچگانه سایز 3",
+          "yellowQty": 0,
+          "whiteQty": 20,
+          "totalQuantity": 20
+        },
+        {
+          "key": "kids_4",
+          "group": "بچگانه",
+          "size": 4,
+          "label": "النگو بچگانه سایز 4",
+          "yellowQty": 0,
+          "whiteQty": 20,
+          "totalQuantity": 20
+        }
+      ],
+      "addedAt": 1793964391547
+    }
+  ],
+  "productCount": 1,
+  "totalQuantity": 80,
+  "totalYellow": 20,
+  "totalWhite": 60,
+  "createdAt": "2026-11-06T14:56:40.213683",
+  "date": "2026/11/06 - 14:56",
+  "timestamp": 1793964400213,
+  "status": "در انتظار مشاهده",
+  "seen": false,
+  "seenAt": null,
+  "confirmationCode": null
+}
