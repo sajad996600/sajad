@@ -1,16 +1,6 @@
 {
   "products": [
     {
-      "id": "1793997019660",
-      "title": "asc",
-      "code": "585",
-      "wagePercent": "",
-      "category": "white_bangle",
-      "imageUrl": "https://raw.githubusercontent.com/sajad996600/sajad/main/images/product_1793997017196.jpg",
-      "imagePath": "images/product_1793997017196.jpg",
-      "imageSha": "60460b7dcacef82ee18a1a1c6f369d43c6c9710f"
-    },
-    {
       "id": "1793964849572",
       "title": "Maria",
       "code": "600",
