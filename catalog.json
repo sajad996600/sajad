@@ -1,16 +1,6 @@
 {
   "products": [
     {
-      "id": "1793967572579",
-      "title": "f",
-      "code": "800",
-      "wagePercent": "",
-      "category": "yellow_bangle",
-      "imageUrl": "https://raw.githubusercontent.com/sajad996600/sajad/main/images/product_1793967569900.jpg",
-      "imagePath": "images/product_1793967569900.jpg",
-      "imageSha": "c7a6b01389039be189aaeb701fe7f61032fecfd8"
-    },
-    {
       "id": "1793964849572",
       "title": "Maria",
       "code": "600",
