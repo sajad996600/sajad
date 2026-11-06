@@ -1,0 +1,35 @@
+{
+  "id": "order_1793996698635407",
+  "storageOwner": "09000000000",
+  "orderCode": "GB-20261106-235458-000407",
+  "customerPhone": "09000000000",
+  "customerName": "مدیر",
+  "products": [
+    {
+      "productId": "1793766339816",
+      "title": "NOVA",
+      "code": "471",
+      "wagePercent": "",
+      "totalYellow": 220,
+      "totalWhite": 200,
+      "totalQuantity": 420,
+      "details": [
+        "النگو زنانه سایز 0: 200 سفید",
+        "النگو زنانه سایز 4: 200 زرد",
+        "النگو بچگانه سایز 1: 20 زرد"
+      ],
+      "addedAt": 1793992190188
+    }
+  ],
+  "productCount": 1,
+  "totalQuantity": 420,
+  "totalYellow": 220,
+  "totalWhite": 200,
+  "createdAt": "2026-11-06T23:54:58.635407",
+  "date": "2026/11/06 - 23:54",
+  "timestamp": 1793996698635,
+  "status": "در انتظار مشاهده",
+  "seen": false,
+  "seenAt": null,
+  "confirmationCode": null
+}
