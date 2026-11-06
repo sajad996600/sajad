@@ -1,16 +1,6 @@
 {
   "products": [
     {
-      "id": "1793998503553",
-      "title": "gd",
-      "code": "557",
-      "wagePercent": "",
-      "category": "yellow_bangle",
-      "imageUrl": "https://raw.githubusercontent.com/sajad996600/sajad/main/images/product_1793998499781847.jpg?v=b4010d6409835ee8fcb64e9b9e7ab7f0415946ef",
-      "imagePath": "images/product_1793998499781847.jpg",
-      "imageSha": "b4010d6409835ee8fcb64e9b9e7ab7f0415946ef"
-    },
-    {
       "id": "1793998002204",
       "title": "ss",
       "code": "585",
