@@ -1,0 +1,138 @@
+{
+  "id": "order_1794030567016119",
+  "storageOwner": "09134520213",
+  "orderCode": "GB-20261107-091927-000119",
+  "customerPhone": "09134520213",
+  "customerName": "حمید عربی",
+  "products": [
+    {
+      "category": "white_bangle",
+      "serviceColor": "",
+      "serviceCut": false,
+      "serviceStone": false,
+      "productId": "1792210286308",
+      "title": "CAMELLIA",
+      "code": "449",
+      "wagePercent": "",
+      "totalYellow": 100,
+      "totalWhite": 110,
+      "totalQuantity": 210,
+      "details": [
+        "النگو زنانه سایز 0: 1 زرد | 2 سفید",
+        "النگو زنانه سایز 1: 3 زرد | 4 سفید",
+        "النگو زنانه سایز 2: 5 زرد | 6 سفید",
+        "النگو زنانه سایز 3: 7 زرد | 8 سفید",
+        "النگو زنانه سایز 4: 9 زرد | 10 سفید",
+        "النگو زنانه سایز 5: 11 زرد | 12 سفید",
+        "النگو بچگانه سایز 1: 13 زرد | 14 سفید",
+        "النگو بچگانه سایز 2: 15 زرد | 16 سفید",
+        "النگو بچگانه سایز 3: 17 زرد | 18 سفید",
+        "النگو بچگانه سایز 4: 19 زرد | 20 سفید"
+      ],
+      "sizeItems": [
+        {
+          "key": "women_0",
+          "group": "زنانه",
+          "size": 0,
+          "label": "النگو زنانه سایز 0",
+          "yellowQty": 1,
+          "whiteQty": 2,
+          "totalQuantity": 3
+        },
+        {
+          "key": "women_1",
+          "group": "زنانه",
+          "size": 1,
+          "label": "النگو زنانه سایز 1",
+          "yellowQty": 3,
+          "whiteQty": 4,
+          "totalQuantity": 7
+        },
+        {
+          "key": "women_2",
+          "group": "زنانه",
+          "size": 2,
+          "label": "النگو زنانه سایز 2",
+          "yellowQty": 5,
+          "whiteQty": 6,
+          "totalQuantity": 11
+        },
+        {
+          "key": "women_3",
+          "group": "زنانه",
+          "size": 3,
+          "label": "النگو زنانه سایز 3",
+          "yellowQty": 7,
+          "whiteQty": 8,
+          "totalQuantity": 15
+        },
+        {
+          "key": "women_4",
+          "group": "زنانه",
+          "size": 4,
+          "label": "النگو زنانه سایز 4",
+          "yellowQty": 9,
+          "whiteQty": 10,
+          "totalQuantity": 19
+        },
+        {
+          "key": "women_5",
+          "group": "زنانه",
+          "size": 5,
+          "label": "النگو زنانه سایز 5",
+          "yellowQty": 11,
+          "whiteQty": 12,
+          "totalQuantity": 23
+        },
+        {
+          "key": "kids_1",
+          "group": "بچگانه",
+          "size": 1,
+          "label": "النگو بچگانه سایز 1",
+          "yellowQty": 13,
+          "whiteQty": 14,
+          "totalQuantity": 27
+        },
+        {
+          "key": "kids_2",
+          "group": "بچگانه",
+          "size": 2,
+          "label": "النگو بچگانه سایز 2",
+          "yellowQty": 15,
+          "whiteQty": 16,
+          "totalQuantity": 31
+        },
+        {
+          "key": "kids_3",
+          "group": "بچگانه",
+          "size": 3,
+          "label": "النگو بچگانه سایز 3",
+          "yellowQty": 17,
+          "whiteQty": 18,
+          "totalQuantity": 35
+        },
+        {
+          "key": "kids_4",
+          "group": "بچگانه",
+          "size": 4,
+          "label": "النگو بچگانه سایز 4",
+          "yellowQty": 19,
+          "whiteQty": 20,
+          "totalQuantity": 39
+        }
+      ],
+      "addedAt": 1794030517637
+    }
+  ],
+  "productCount": 1,
+  "totalQuantity": 210,
+  "totalYellow": 100,
+  "totalWhite": 110,
+  "createdAt": "2026-11-07T09:19:27.016119",
+  "date": "2026/11/07 - 09:19",
+  "timestamp": 1794030567016,
+  "status": "در انتظار مشاهده",
+  "seen": false,
+  "seenAt": null,
+  "confirmationCode": null
+}
