@@ -1,0 +1,88 @@
+{
+  "id": "order_1794126077041601",
+  "storageOwner": "09134520213",
+  "orderCode": "GB-20261108-115117-000601",
+  "customerPhone": "09134520213",
+  "customerName": "حمید عربی",
+  "products": [
+    {
+      "category": "white_bangle",
+      "serviceColor": "",
+      "serviceCut": false,
+      "serviceStone": false,
+      "productId": "1793766339816",
+      "title": "NOVA",
+      "code": "471",
+      "wagePercent": "",
+      "totalYellow": 13,
+      "totalWhite": 5,
+      "totalQuantity": 18,
+      "details": [
+        "النگو زنانه سایز 0: 1 زرد",
+        "النگو زنانه سایز 1: 5 زرد",
+        "النگو زنانه سایز 2: 2 زرد",
+        "النگو زنانه سایز 4: 5 سفید",
+        "النگو بچگانه سایز 2: 5 زرد"
+      ],
+      "sizeItems": [
+        {
+          "key": "women_0",
+          "group": "زنانه",
+          "size": 0,
+          "label": "النگو زنانه سایز 0",
+          "yellowQty": 1,
+          "whiteQty": 0,
+          "totalQuantity": 1
+        },
+        {
+          "key": "women_1",
+          "group": "زنانه",
+          "size": 1,
+          "label": "النگو زنانه سایز 1",
+          "yellowQty": 5,
+          "whiteQty": 0,
+          "totalQuantity": 5
+        },
+        {
+          "key": "women_2",
+          "group": "زنانه",
+          "size": 2,
+          "label": "النگو زنانه سایز 2",
+          "yellowQty": 2,
+          "whiteQty": 0,
+          "totalQuantity": 2
+        },
+        {
+          "key": "women_4",
+          "group": "زنانه",
+          "size": 4,
+          "label": "النگو زنانه سایز 4",
+          "yellowQty": 0,
+          "whiteQty": 5,
+          "totalQuantity": 5
+        },
+        {
+          "key": "kids_2",
+          "group": "بچگانه",
+          "size": 2,
+          "label": "النگو بچگانه سایز 2",
+          "yellowQty": 5,
+          "whiteQty": 0,
+          "totalQuantity": 5
+        }
+      ],
+      "addedAt": 1794126050426
+    }
+  ],
+  "productCount": 1,
+  "totalQuantity": 18,
+  "totalYellow": 13,
+  "totalWhite": 5,
+  "createdAt": "2026-11-08T11:51:17.041601",
+  "date": "2026/11/08 - 11:51",
+  "timestamp": 1794126077041,
+  "status": "در انتظار مشاهده",
+  "seen": false,
+  "seenAt": null,
+  "confirmationCode": null
+}
