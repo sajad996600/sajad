@@ -71,7 +71,17 @@
           "totalQuantity": 5
         }
       ],
-      "addedAt": 1794126050426
+      "addedAt": 1794126050426,
+      "factorySizeAvailability": {
+        "women_0": true,
+        "women_1": false,
+        "women_2": true,
+        "women_4": false,
+        "kids_2": true
+      },
+      "factoryAvailability": "partial",
+      "factoryAvailable": null,
+      "factoryAvailabilityUpdatedAt": "2026-11-09T16:29:06.799879"
     }
   ],
   "productCount": 1,
@@ -81,8 +91,10 @@
   "createdAt": "2026-11-08T11:51:17.041601",
   "date": "2026/11/08 - 11:51",
   "timestamp": 1794126077041,
-  "status": "در انتظار مشاهده",
-  "seen": false,
-  "seenAt": null,
-  "confirmationCode": null
+  "status": "تأیید نهایی کارخانه",
+  "seen": true,
+  "seenAt": "2026-11-09T16:29:06.799879",
+  "confirmationCode": "899879",
+  "availabilityConfirmed": true,
+  "factoryConfirmedAt": "2026-11-09T16:29:06.799879"
 }
