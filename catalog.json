@@ -1,16 +1,6 @@
 {
   "products": [
     {
-      "id": "1795189988653",
-      "title": "ere",
-      "code": "258",
-      "wagePercent": "",
-      "category": "white_bangle",
-      "imageUrl": "https://api.github.com/repos/sajad996600/sajad/contents/images/product_1795189986323000.jpg?ref=main",
-      "imagePath": "images/product_1795189986323000.jpg",
-      "imageSha": "830c2a864b1a5ae82840dd910ae52abf4fc5c773"
-    },
-    {
       "id": "1793998764291",
       "title": "ksj",
       "code": "464",
