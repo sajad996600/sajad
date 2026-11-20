@@ -1,16 +1,6 @@
 {
   "products": [
     {
-      "id": "1795190291819",
-      "title": "gdgh",
-      "code": "578",
-      "wagePercent": "",
-      "category": "white_bangle",
-      "imageUrl": "https://api.github.com/repos/sajad996600/sajad/contents/images/product_1795190289466158.jpg?ref=main",
-      "imagePath": "images/product_1795190289466158.jpg",
-      "imageSha": "354a1150930607bbbfb39695b717755bbd5e2799"
-    },
-    {
       "id": "1793998764291",
       "title": "ksj",
       "code": "464",
