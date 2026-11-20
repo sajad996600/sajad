@@ -1,16 +1,6 @@
 {
   "products": [
     {
-      "id": "1795191076700",
-      "title": "ndbd",
-      "code": "654",
-      "wagePercent": "",
-      "category": "white_bangle",
-      "imageUrl": "https://api.github.com/repos/sajad996600/sajad/contents/images/product_1795191074082357.jpg?ref=main",
-      "imagePath": "images/product_1795191074082357.jpg",
-      "imageSha": "4bda75eab9cf091016a4949c8c8fdd6ff9485236"
-    },
-    {
       "id": "1793998764291",
       "title": "ksj",
       "code": "464",
