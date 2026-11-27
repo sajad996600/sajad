@@ -22,12 +22,19 @@
     },
     {
       "id": "1793766339816",
-      "title": "NOVA",
+      "title": "jdgh",
       "code": "471",
       "wagePercent": "",
       "imageUrl": "https://raw.githubusercontent.com/sajad996600/sajad/main/images/product_1793766336062.jpg",
       "imagePath": "images/product_1793766336062.jpg",
-      "imageSha": "06975bda771878ca1062de407a35ebf4ef2c348f"
+      "imageSha": "06975bda771878ca1062de407a35ebf4ef2c348f",
+      "category": "white_bangle",
+      "whiteImageUrl": "https://raw.githubusercontent.com/sajad996600/sajad/main/images/product_1793766336062.jpg",
+      "whiteImagePath": "images/product_1793766336062.jpg",
+      "whiteImageSha": "06975bda771878ca1062de407a35ebf4ef2c348f",
+      "yellowImageUrl": "https://raw.githubusercontent.com/sajad996600/sajad/main/images/product_1795815238997439_yellow.jpg?t=1795815240632",
+      "yellowImagePath": "images/product_1795815238997439_yellow.jpg",
+      "yellowImageSha": "3049e021635be19a16c50c976a6f73e62c9c9030"
     },
     {
       "id": "1792210286308",
